@@ -4,7 +4,7 @@ local GUI = Mercury:Create{
     Name = "Mercury",
     Size = UDim2.fromOffset(600, 400),
     Theme = Mercury.Themes.Dark,
-    Link = "https://github.com/deeeity/mercury-lib"
+    Link = "sinny999s/sinny-tool-v4/edit/main/sinnytoolv4.lua"
 }
 
 -- Tab 1: Player (Aimbot and ESP)
